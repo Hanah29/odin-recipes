@@ -5,7 +5,7 @@ It covers the basics of hmtl
 
 In this website, I have a pages that describe recipes for the following foods:
 
-DoroWat
-Beyaynet
-Shirowat
+1.DoroWat
+2.Beyaynet
+3.Shirowat
 I will consistently update with more recipes.
